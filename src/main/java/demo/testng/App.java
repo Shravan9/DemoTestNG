@@ -1,4 +1,4 @@
-package TestNG-Tutorail;
+package demo.testng;
 
 /**
  * Hello world!
